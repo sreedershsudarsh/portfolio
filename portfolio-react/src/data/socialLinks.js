@@ -1,9 +1,9 @@
 // ══ SOCIAL LINKS CONFIG (change here only) ══════════════════════════════
 // All links across the site read from this file.
 export const socialLinks = {
-  whatsapp: 'https://wa.me/919977886754',
-  instagram: 'https://www.instagram.com/made_zr/',
-  github: 'YOUR_GITHUB_URL',
-  linkedin: 'YOUR_LINKEDIN_URL',
-  email: 'YOUR_EMAIL',
+  whatsapp: 'https://wa.me/8921544076',
+  instagram: 'https://www.instagram.com/made_by_zr/',
+   github: 'https://github.com/sreedershsudarsh',
+  linkedin: 'https://www.linkedin.com/in/sreedersh-sudarsh/',
+  email: 'mailto:sreedershsudarsh704@gmail.com',
 }
