@@ -20,7 +20,7 @@ export default function Contact() {
           >
             <div className="text-2xl mb-2">💬</div>
             <div className="text-[.74rem] font-bold text-text">WhatsApp</div>
-            <div className="text-[.68rem] text-dim mt-1">+91 8921544076</div>
+            <div className="text-[.68rem] text-dim mt-1">+91 xxxxxxxx_76</div>
           </a>
           <a
             href={socialLinks.instagram}
@@ -30,7 +30,7 @@ export default function Contact() {
           >
             <div className="text-2xl mb-2">📸</div>
             <div className="text-[.74rem] font-bold text-text">Instagram</div>
-            <div className="text-[.68rem] text-dim mt-1">@made_by_zr</div>
+            <div className="text-[.68rem] text-dim mt-1">xxxxx_zr</div>
           </a>
           <a
             href={`mailto:${socialLinks.email}`}
@@ -38,7 +38,7 @@ export default function Contact() {
           >
             <div className="text-2xl mb-2">✉️</div>
             <div className="text-[.74rem] font-bold text-text">Email</div>
-            <div className="text-[.68rem] text-dim mt-1">sreedershsudarsh704</div>
+            <div className="text-[.68rem] text-dim mt-1">xxxxxx_@gmail.com</div>
           </a>
           <a
             href={socialLinks.linkedin}
@@ -48,7 +48,7 @@ export default function Contact() {
           >
             <div className="text-2xl mb-2">💼</div>
             <div className="text-[.74rem] font-bold text-text">LinkedIn</div>
-            <div className="text-[.68rem] text-dim mt-1">Sreedersh Sudarsh</div>
+            <div className="text-[.68rem] text-dim mt-1">s_xxxxxxx_h</div>
           </a>
         </div>
         <div className="reveal d4 flex justify-center gap-3">
