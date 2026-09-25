@@ -165,7 +165,7 @@ export default function Hero() {
               <img
                 src="/assets/images/pic.png"
                 alt="Profile"
-                className="w-full h-full object-cover scale-[3.7] translate-y-[260px]"
+                className="w-full h-full object-cover scale-[3.7] md:translate-y-[200px] lg:translate-y-[260px]"
               />
             </div>
           </div>
