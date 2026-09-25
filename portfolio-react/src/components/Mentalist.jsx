@@ -27,7 +27,7 @@ export default function Mentalist() {
   }
 
   return (
-    <section id="mentalist" className="bg-white py-[clamp(5rem,10vw,8rem)] px-[clamp(1rem,6vw,4rem)] relative overflow-hidden">
+    <section id="mentalist" className="bg-white py-[clamp(3rem,5vw,6rem)] px-[clamp(1rem,6vw,4rem)] relative overflow-hidden">
       <div
         className="absolute inset-0 pointer-events-none"
         style={{ background: 'radial-gradient(ellipse 55% 65% at 60% 50%, rgba(22,163,74,.06) 0%, transparent 70%)' }}
@@ -77,7 +77,7 @@ export default function Mentalist() {
               style={{ background: 'radial-gradient(circle at var(--mx,50%) var(--my,50%), rgba(22,163,74,.16), transparent 55%)' }}
             />
             <img
-              src="https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=600&q=80"
+              src="https://world-psychology.com/wp-content/uploads/2022/08/gipnoz.jpg"
               alt="Mentalist — mind and mystery"
               loading="lazy"
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"

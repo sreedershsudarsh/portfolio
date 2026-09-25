@@ -13,7 +13,7 @@ export default function Drummer() {
   return (
     <section
       id="drummer"
-      className="py-[clamp(5rem,10vw,8rem)] px-[clamp(1rem,6vw,4rem)] relative overflow-hidden"
+      className="py-[clamp(3rem,5vw,6rem)] px-[clamp(1rem,6vw,4rem)] relative overflow-hidden"
       style={{ background: 'linear-gradient(135deg, #f0faf4 0%, #fff 50%, #e8f5ee 100%)' }}
     >
       <div className="grid md:grid-cols-2 gap-16 max-w-[1100px] mx-auto items-center">

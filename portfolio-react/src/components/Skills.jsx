@@ -58,7 +58,7 @@ function SkillBar({ label, pct }) {
 
 export default function Skills() {
   return (
-    <section id="skills" className="bg-white py-[clamp(5rem,10vw,8rem)] px-[clamp(1rem,6vw,4rem)]">
+    <section id="skills" className="bg-white py-[clamp(3rem,5vw,6rem)] px-[clamp(1rem,6vw,4rem)]">
       <div className="max-w-[860px] mx-auto">
         <p className="reveal text-[.72rem] font-semibold tracking-[.2em] text-accentlite uppercase mb-3">Proficiency</p>
         <h2 className="reveal d1 font-display text-[clamp(2rem,5vw,3.2rem)] font-extrabold text-text">Skills</h2>

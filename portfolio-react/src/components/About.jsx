@@ -1,13 +1,13 @@
 const CARDS = [
-  { icon: '⌨️', title: 'Software Developer', sub: 'Technopark, Kerala' },
+  { icon: '👨‍💻', title: 'Software Developer', sub: 'Technopark, Kerala' },
   { icon: '🥁', title: 'Drummer', sub: 'Rhythm & Performance' },
   { icon: '🧠', title: 'Mentalist', sub: 'Mind & Mystery' },
-  { icon: '📍', title: 'Trivandrum, Kerala', sub: 'India' },
+  { icon: '🌍', title: 'Trivandrum, Kerala', sub: 'India' },
 ]
 
 export default function About() {
   return (
-    <section id="about" className="bg-surface py-[clamp(5rem,10vw,8rem)] px-[clamp(1rem,6vw,4rem)]">
+    <section id="about" className="bg-surface py-[clamp(3rem,4vw,6rem)] px-[clamp(1rem,6vw,4rem)]">
       <div className="grid md:grid-cols-2 gap-16 max-w-[1100px] mx-auto items-center">
         <div className="reveal">
           <p className="text-[.72rem] font-semibold tracking-[.2em] text-accentlite uppercase mb-3">Who I Am</p>

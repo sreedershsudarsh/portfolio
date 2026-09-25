@@ -13,7 +13,7 @@ const TECH = [
 
 export default function Developer() {
   return (
-    <section id="developer" className="bg-white py-[clamp(5rem,10vw,8rem)] px-[clamp(1rem,6vw,4rem)]">
+    <section id="developer" className="bg-white py-[clamp(3rem,5vw,6rem)] px-[clamp(1rem,6vw,4rem)]">
       <div className="max-w-[1100px] mx-auto">
         <div className="reveal flex justify-between items-start flex-wrap gap-8 mb-12">
           <div>
