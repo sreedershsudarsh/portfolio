@@ -13,7 +13,6 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 import FloatingWhatsApp from './components/FloatingWhatsApp'
 import { useReveal } from './hooks/useReveal'
-import Voice from './components/Voice'
 
 export default function App() {
   const rootRef = useRef(null)
